@@ -8,7 +8,7 @@
             </run>
         </groups>
         <classes>
-            <class name="com.thetestingacademy.ex_04_TestNG_Examples.APITESTING_Lab018_TestNG_Groups"> </class>
+            <class name="com.thetestingacademy.ex_05_TestNG_Examples.APITESTING_Lab018_TestNG_Groups"> </class>
         </classes>
     </test>
 </suite>

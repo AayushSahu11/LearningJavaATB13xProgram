@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_04_TestNG_Examples.parallel.class_level_BestFor_CrossBrowser_Testing;
+package com.thetestingacademy.ex_05_TestNG_Examples.parallel.class_level_BestFor_CrossBrowser_Testing;
 
 import org.testng.annotations.Test;
 

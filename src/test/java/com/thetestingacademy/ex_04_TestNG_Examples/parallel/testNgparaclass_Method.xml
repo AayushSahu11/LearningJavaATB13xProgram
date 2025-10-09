@@ -3,8 +3,8 @@
 <suite name="Parallel-Method" parallel="classes" thread-count="2">
     <test name="LoginTests">
         <classes>
-            <class name="com.thetestingacademy.ex_04_TestNG_Examples.parallel.class_level_BestFor_CrossBrowser_Testing.ChromeTest"></class>
-            <class name="com.thetestingacademy.ex_04_TestNG_Examples.parallel.class_level_BestFor_CrossBrowser_Testing.FireFoxTest"></class>
+            <class name="com.thetestingacademy.ex_05_TestNG_Examples.parallel.class_level_BestFor_CrossBrowser_Testing.ChromeTest"></class>
+            <class name="com.thetestingacademy.ex_05_TestNG_Examples.parallel.class_level_BestFor_CrossBrowser_Testing.FireFoxTest"></class>
         </classes>
     </test>
 </suite>

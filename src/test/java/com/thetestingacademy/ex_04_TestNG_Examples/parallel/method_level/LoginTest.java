@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_04_TestNG_Examples.parallel.method_level;
+package com.thetestingacademy.ex_05_TestNG_Examples.parallel.method_level;
 
 import org.testng.annotations.Test;
 

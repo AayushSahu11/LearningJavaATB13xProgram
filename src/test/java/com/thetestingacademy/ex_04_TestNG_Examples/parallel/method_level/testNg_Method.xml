@@ -3,7 +3,7 @@
 <suite name="Parallel-Method" parallel="methods" thread-count="2">
     <test name="LoginTests">
         <classes>
-            <class name="com.thetestingacademy.ex_04_TestNG_Examples.parallel.method_level.LoginTest"></class>
+            <class name="com.thetestingacademy.ex_05_TestNG_Examples.parallel.method_level.LoginTest"></class>
         </classes>
     </test>
 </suite>
